@@ -1,0 +1,10 @@
+README.md
+setup.py
+pdf_image_ocr/config.py
+pdf_image_ocr/image_ocr.py
+pdf_image_ocr/log_init.py
+pdf_image_ocr/pdf2image_converter.py
+pdf_image_ocr.egg-info/PKG-INFO
+pdf_image_ocr.egg-info/SOURCES.txt
+pdf_image_ocr.egg-info/dependency_links.txt
+pdf_image_ocr.egg-info/top_level.txt
